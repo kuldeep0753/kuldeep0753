@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Demo</title>
+</head>
+<body>
+    <h1>JS DEMO</h1>
+    <!-- Inline js call -->
+    <button onclick="alert('Working')">Click Me 1</button>
+    <!-- Internal js call -->
+    <button onclick=handleButton()>Click Me 2</button>
+
+    <script>
+        function handleButton(){
+            var x=10;
+            alert(x);
+        }
+    </script>
+
+<!-- External JS call -->
+<button onclick=handleButtonColor()>Click Me 3</button>
+<script src="../Hands-On/assets/scripts/main.js"></script>
+</body>
+</html>
