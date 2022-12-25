@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kuldeep0753
-- 👀 I’m interested in frontend developmen.
+- 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning HTML CSS and Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
