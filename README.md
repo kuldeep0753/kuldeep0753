@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kuldeep0753
-- 👀 I’m interested in frontend development.
+- 👋 Hi, I’m Kuldeep Singh
+- 👀 I’m interested in frontend development (ReactJs).
 - 🌱 I’m currently learning HTML CSS and Javascript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kushwaha0753kuldeep@gmail.com
 
 <!---
 kuldeep0753/kuldeep0753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
