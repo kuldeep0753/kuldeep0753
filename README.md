@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kuldeep Singh
 - 👀 I’m interested in frontend development (ReactJs).
 - 🌱 I’m currently learning HTML CSS and Javascript 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me kushwaha0753kuldeep@gmail.com
 
 <!---
