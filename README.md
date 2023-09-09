@@ -1,3 +1,4 @@
+<div background="darkslategrey"> 
 <h1 align="center">Hi 👋, I'm Kuldeep Singh Kushwaha</h1>
 <h3 align="center">Designing Digital Experiences with Frontend Expertise</h3>
 
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep0753&show_icons=true&locale=en" alt="kuldeep0753" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep0753&" alt="kuldeep0753" /></p>
+</div>
